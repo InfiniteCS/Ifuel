@@ -1,0 +1,2 @@
+include ifuel README
+recursive-include  iFuel/things *
